@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lancerharris
 - 👀 I’m interested in App programing and Data Analysis
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything worthwhile.
 - 📫 How to reach me: lancerprogram@gmail.com
 
 <!---

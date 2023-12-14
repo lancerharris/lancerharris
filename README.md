@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lancerharris
-- 👀 I’m interested in App programing and Data Analysis
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in learning to code better and game development
+- 🌱 I’m currently learning python, c#, c++, design paterns
 - 💞️ I’m looking to collaborate on ... anything worthwhile.
 - 📫 How to reach me: lancerprogram@gmail.com
 
